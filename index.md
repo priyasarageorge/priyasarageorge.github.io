@@ -1,31 +1,18 @@
-## Portfolio
+## Selected Projects in Machine Learning and Data Science
 
 ---
 
-### Category Name 1 
+### Generative AI Trends and Opinion Mining
+Analysing the trend of Generative AI before and after ChatGPT using tweets sourced from twitter. Opinion Mining is also performed to calculate the sentiment score and Polarity, using k-means clustering and a BERT model for sentiment analysis.This analysis helps to understand the sentiment of people towards generative AI and how it has changed after the introduction of ChatGPT.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/blob.png?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Trends_GAI.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
----
+[View code on Github](https://github.com/priyasarageorge/Machine-Learning-and-AI/blob/main/generative-ai-trends-and-opinion-mining.ipynb)
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
