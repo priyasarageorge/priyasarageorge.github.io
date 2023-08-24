@@ -29,6 +29,20 @@ Classification of images into "Fake" and "Real" categories using the VGG16 model
 
 [View code on Github](https://github.com/priyasarageorge/Machine-Learning-and-AI/blob/main/fake-vs-real-image-classification-using-vgg16.ipynb)
 
+### Unveiling Sales Trends: Forecasting and Detecting Anomalies in Time Series Data
+This project entails a comprehensive analysis of sales data, employing time series forecasting and anomaly detection methods. Through trend analysis and seasonal decomposition, the project unveils sales patterns, while the SARIMA model is used to predict future sales, with the best configuration chosen based on MAE and RMSE. Anomaly detection is performed using the Isolation Forest algorithm to identify irregularities in sales data. The project's outcomes are versatile, offering insights for inventory management, business decision-making, and fraud prevention by detecting anomalies that may indicate fraudulent activities.
+
+<img src="images/Moving_average.png" width="400"/>
+
+<img src="images/Decomposition.png" width ="400"/>
+
+<img src="images/SARIMA.png" width ="400"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/Statsmodels-white?logo=Statsmodels)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/IsolationForest-white?logo=IsolationForest)](#)[![](https://img.shields.io/badge/SARIMAX-white?logo=SARIMAX)](#)[![](https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib)](#)
+
+[View code on Github](https://github.com/priyasarageorge/Machine-Learning-and-AI/blob/main/time-series-analysis-sales-data.ipynb)
+
+
 
 
 
